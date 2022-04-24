@@ -21,6 +21,7 @@ congressional election.
 The analysis of the data shows that:
 - There were 369,711 votes cast in the election.
 - There were 3 candidates and 3 counties.
+###
 ![alt text](https://github.com/zimmer3-iii/Election_Analysis_Python/blob/main/analysis/election_analysis.txt)
 
 
