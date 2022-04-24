@@ -21,7 +21,27 @@ congressional election.
 The analysis of the data shows that:
 - There were 369,711 votes cast in the election.
 - There were 3 candidates and 3 counties.
-###
-![alt text](https://github.com/zimmer3-iii/Election_Analysis_Python/blob/main/analysis/election_analysis.txt)
+### Election Results
+-------------------------
+Total Votes: 369,711
+-------------------------
+
+County Votes:
+Jefferson: 10.5% (38,855)
+Denver: 82.8% (306,055)
+Arapahoe: 6.7% (24,801)
+-------------------------
+Largest County Turnout: Denver
+Largest County Votes: 306,055
+Voting Percentage: 82.8%
+-------------------------
+Charles Casper Stockham: 23.0% (85,213)
+Diana DeGette: 73.8% (272,892)
+Raymon Anthony Doane: 3.1% (11,606)
+-------------------------
+Winner: Diana DeGette
+Winning Vote Count: 272,892
+Winning Percentage: 73.8%
+-------------------------
 
 
