@@ -1,4 +1,4 @@
-#Election Analysis
+# Election Analysis
 
 ## Overview of Project
 A Colorado Board of Elections employee has given the following tasks to complete the elections audit of a recent local
