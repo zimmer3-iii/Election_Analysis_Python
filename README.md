@@ -44,4 +44,12 @@ The analysis of the data shows that:
     Winning Percentage: 73.8%
     -------------------------
 
+## Summary
+A few notes about the python script used for this analysis:
+- This script can be used for any election result with at least 1 candidate and 1 county.
+- This script must be udpated if the election data is not stored in a folder called "Resources" and/or the script is not
+run from a folder containing the "Resources" folder.
+- Similarly the script will not print the results to a text file if there is not a folder called "analysis".
+- An improvement that could be made is to have the results display the numbers of votes and percentage of votes
+ each candidate got from each county.
 
